@@ -3,7 +3,7 @@
 <p align="center"><img src="images/login.PNG"  height="auto" width="100%"></p>
 <p align="center"><img src="images/dash.PNG"  height="auto" width="100%"></p>
 <p align="center"><img src="images/sm.PNG"  height="auto" width="100%"></p>
-<p align="center"><img src="images/reports.PNG"  height="auto" width="100%"></p>
+<p align="center"><img src="images/report.PNG"  height="auto" width="100%"></p>
 
 ---
 
