@@ -9,7 +9,24 @@
     <link rel="icon" href="{{asset('backend/images/favicon.ico')}}">
 
     <title>Education ERP System - Dashboard</title>
-    
+    <meta name="description" content="Education ERP is a complete end-to-end CMS which enables user and student management for Schools and Colleges.  Built in Laravel 8, ">
+    <meta name="author" content="Michael O'Grady">
+
+    <!-- Facebook Meta Tags -->
+    <meta property="og:url" content="https://breakout-game-01.herokuapp.com/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Education ERP —  Laravel 8 CMS">
+    <meta property="og:description" content="Education ERP is a complete end-to-end CMS which enables user and student management for Schools and Colleges.  Built in Laravel 8, ">
+    <meta property="og:image" content="https://education-erp.herokuapp.com/backend/images/banner.png">
+
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="education-erp.herokuapp.com">
+    <meta property="twitter:url" content="https://breakout-game-01.herokuapp.com/">
+    <meta name="twitter:title" content="Education ERP —  Laravel 8 CMS">
+    <meta name="twitter:description" content="Education ERP is a complete end-to-end CMS which enables user and student management for Schools and Colleges.  Built in Laravel 8, ">
+    <meta name="twitter:image" content="https://education-erp.herokuapp.com/backend/images/banner.png">
+
 	<!-- Vendors Style-->
 	<link rel="stylesheet" href="{{ asset('backend/css/vendors_css.css') }}">
 	  

@@ -9,5 +9,5 @@
 		  </li>
 		</ul>
     </div>
-	  &copy; 2022 <a href="#">Education ERP System</a>. All Rights Reserved. <a class="nav-link" href="http://www.michaelogrady.net">http://www.michaelogrady.net</a>
+	  &copy; 2022 <a href="javascript:void(0)">Education ERP System</a>. All Rights Reserved. <a class="nav-link" href="https://www.michaelogrady.com">https://www.michaelogrady.com</a>
   </footer>
